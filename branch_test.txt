@@ -1,5 +1,0 @@
-branch 新建分支测试master ==本地 -- 测试pull 然后解决冲突。
-./././
-<div class="" id="dataCollection" data-statistics='{"s.paid":"1012"}'></div> 海外
-<div class="" id="dataCollection" data-statistics='{"s.paid":"1053"}'></div> 
-<div class="" id="dataCollection" data-statistics='{"s.paid":"1010"}'></div> 闪购
